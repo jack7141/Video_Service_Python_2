@@ -4,6 +4,8 @@ from rest_framework.response import Response
 from .detect_pipe import remove_noise
 from .project_algorithm import main
 import logging
+from logging import handlers
+# 날짜없이 그냥 로그파일을 만들때
 logging.basicConfig(filename='ImageProcessing.log',
                     level=logging.DEBUG, format='%(asctime)s:%(message)s')
 

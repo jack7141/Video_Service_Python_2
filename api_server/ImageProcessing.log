@@ -1,49 +1,70 @@
-2020-02-14 01:27:31,341:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:27:31,370:Distance: 88.28125
-2020-02-14 01:27:31,370:Pixel: 128
-2020-02-14 01:27:31,370:Degree: 0
-2020-02-14 01:27:31,370:PipeType: 0
-2020-02-14 01:30:40,150:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:30:46,969:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:30:46,999:Response: {'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:30:46,999:Pixel: 128
-2020-02-14 01:30:46,999:Degree: 0
-2020-02-14 01:30:46,999:PipeType: 0
-2020-02-14 01:31:18,135:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:31:22,777:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:31:26,003:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:31:26,034:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:14,617:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:32:27,433:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:32:47,631:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:32:50,796:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:32:50,824:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:53,598:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:32:53,624:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:53,991:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:32:54,019:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:54,295:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:32:54,320:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:54,520:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:32:54,546:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:54,838:Path: /home/hgh/hgh/project/test_project/3.jpg
-2020-02-14 01:32:54,863:{'DepthToPipe': 88.28125, 'PixelDistance': 128, 'Type': 0, 'Degree': 0}
-2020-02-14 01:32:57,310:Path: /home/hgh/hgh/project/test_project/1.jpg
-2020-02-14 01:32:57,340:{'DepthToPipe': 50.0, 'PixelDistance': 226, 'Type': 0, 'Degree': 0}
-2020-02-14 01:33:00,024:Path: /home/hgh/hgh/project/test_project/2.jpg
-2020-02-14 01:33:00,052:{'DepthToPipe': 73.85620915032679, 'PixelDistance': 153, 'Type': 0, 'Degree': 0}
-2020-02-14 01:33:10,239:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
-2020-02-14 01:33:43,569:Path: /home/hgh/hgh/project/test_project/23.jpg
-2020-02-14 01:33:43,570:There is No Image
-2020-02-14 01:33:59,595:Path: /home/hgh/hgh/project/test_project/12.jpg
-2020-02-14 01:33:59,614:There's no Line
-2020-02-14 01:38:07,650:Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
-2020-02-14 01:38:07,675:Bad Request: /mv-image-analysis/pipe_depth/assignment
-2020-02-14 01:38:09,898:Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
-2020-02-14 01:38:09,917:Bad Request: /mv-image-analysis/pipe_depth/assignment
-2020-02-14 01:38:13,557:/home/hgh/hgh/api_server_pipe_2/api_server/api_server/settings.py changed, reloading.
-2020-02-14 01:38:15,844:Path: /home/hgh/hgh/project/test_project/12.jpg
-2020-02-14 01:38:15,861:There's no Line
-2020-02-14 01:38:42,498:/home/hgh/hgh/api_server_pipe_2/api_server/api_server/settings.py changed, reloading.
-2020-02-14 01:38:46,116:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/views.py changed, reloading.
-2020-02-14 01:38:48,666:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/views.py changed, reloading.
+2020-06-05 01:59:39,014:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 01:59:56,972:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:03:12,609:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:03:24,603:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:03:38,684:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:03:55,810:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:04:01,467:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:04:14,477:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:04:24,305:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:04:35,344:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:04:44,831:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:04:44,939:There's no Line
+2020-06-05 02:04:49,538:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:05:05,646:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:05:07,778:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:05:07,880:There's no Line
+2020-06-05 02:05:41,489:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:05:41,584:There's no Line
+2020-06-05 02:09:33,090:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:10:47,251:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:10:49,931:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:10:50,035:There's no Lineiiii
+2020-06-05 02:11:09,666:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:11:17,489:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:11:17,591:There's no Lineiiii
+2020-06-05 02:11:31,102:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:12:05,637:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:12:47,812:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:12:50,790:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:12:50,891:There's no Lineiiii
+2020-06-05 02:13:14,499:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:13:17,345:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:13:28,758:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:13:31,505:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:15:03,362:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:15:10,410:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:15:16,579:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:15:20,711:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:15:39,973:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:16:20,008:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:16:22,609:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:18:01,526:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:18:05,619:Path: /home/hgh/hgh/project/test_project/depth_30.png
+2020-06-05 02:18:05,723:{'DepthToPipe': 31.074380165289256, 'PixelDistance': 363, 'Type': 0, 'Degree': 0}
+2020-06-05 02:18:40,677:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:20:52,246:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:22:07,930:Path: curve_45deg_107depth_housa01_20200602115602
+2020-06-05 02:22:32,275:Path: /home/hgh/hgh/project/test_project/curve_45deg_107depth_housa01_20200602115602
+2020-06-05 02:22:45,753:Path: /home/hgh/hgh/project/test_project/curve_45deg_107depth_housa01_20200602115602.png
+2020-06-05 02:22:45,865:{'DepthToPipe': 29.528795811518325, 'PixelDistance': 382, 'Type': 1, 'Degree': 51.22260500132339}
+2020-06-05 02:22:59,017:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:23:10,332:Path: /home/hgh/hgh/project/test_project/curve_11deg_107depth_housa01_20200602115443.png
+2020-06-05 02:23:10,441:{'DepthToPipe': 113.93939393939394, 'PixelDistance': 99, 'Type': 1, 'Degree': 11.936422201925408}
+2020-06-05 02:23:23,942:Path: /home/hgh/hgh/project/test_project/straight_74depth_housa01_20200602114934.png
+2020-06-05 02:23:24,041:{'DepthToPipe': 85.45454545454545, 'PixelDistance': 132, 'Type': 1, 'Degree': 12.734731761596073}
+2020-06-05 02:23:28,539:Path: /home/hgh/hgh/project/test_project/straight_74depth_housa01_20200602114934.png
+2020-06-05 02:23:28,634:{'DepthToPipe': 85.45454545454545, 'PixelDistance': 132, 'Type': 1, 'Degree': 12.734731761596073}
+2020-06-05 02:23:42,996:Path: /home/hgh/hgh/project/test_project/straight_74depth_housa01_20200602114934.png
+2020-06-05 02:23:43,092:{'DepthToPipe': 85.45454545454545, 'PixelDistance': 132, 'Type': 1, 'Degree': 12.734731761596073}
+2020-06-05 02:24:40,890:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 02:24:43,840:Path: /home/hgh/hgh/project/test_project/straight_74depth_housa01_20200602114934.png
+2020-06-05 02:24:43,945:{'DepthToPipe': 85.45454545454545, 'PixelDistance': 132, 'Type': 0, 'Degree': 0}
+2020-06-05 02:24:48,388:Path: /home/hgh/hgh/project/test_project/straight_74depth_housa01_20200602114934.png
+2020-06-05 02:24:48,487:{'DepthToPipe': 85.45454545454545, 'PixelDistance': 132, 'Type': 0, 'Degree': 0}
+2020-06-05 02:25:02,404:Path: /home/hgh/hgh/project/test_project/straight_107depth_housa01_20200602115023.png
+2020-06-05 02:25:02,501:{'DepthToPipe': 118.73684210526316, 'PixelDistance': 95, 'Type': 0, 'Degree': 0}
+2020-06-05 02:25:15,951:Path: /home/hgh/hgh/project/test_project/depth_50.png
+2020-06-05 02:25:16,052:{'DepthToPipe': 53.459715639810426, 'PixelDistance': 211, 'Type': 0, 'Degree': 0}
+2020-06-05 02:25:26,830:Path: /home/hgh/hgh/project/test_project/curve_22deg_107depth_housa01_20200602114603.png
+2020-06-05 02:25:26,930:{'DepthToPipe': 33.1764705882353, 'PixelDistance': 340, 'Type': 1, 'Degree': 23.63881781019633}
