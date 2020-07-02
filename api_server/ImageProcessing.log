@@ -68,3 +68,113 @@
 2020-06-05 02:25:16,052:{'DepthToPipe': 53.459715639810426, 'PixelDistance': 211, 'Type': 0, 'Degree': 0}
 2020-06-05 02:25:26,830:Path: /home/hgh/hgh/project/test_project/curve_22deg_107depth_housa01_20200602114603.png
 2020-06-05 02:25:26,930:{'DepthToPipe': 33.1764705882353, 'PixelDistance': 340, 'Type': 1, 'Degree': 23.63881781019633}
+2020-06-05 03:41:44,683:Path: /home/hgh/hgh/project/test_project/curve_22deg_107depth_housa01_20200602114603.png
+2020-06-05 03:41:44,797:{'DepthToPipe': 32.32091690544413, 'PixelDistance': 349, 'Type': 1, 'Degree': 23.63881781019633}
+2020-06-05 03:43:02,191:Path: /home/hgh/hgh/project/test_project/curve_22deg_107depth_housa01_20200602114603.png
+2020-06-05 03:43:02,290:{'DepthToPipe': 32.32091690544413, 'PixelDistance': 349, 'Type': 1, 'Degree': 23.63881781019633}
+2020-06-05 05:13:22,444:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-06-05 05:13:25,966:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:12:32,770:Path: /home/hgh/hgh/project/test_project/curve_22deg_107depth_housa01_20200602114603.png
+2020-07-02 08:12:32,908:{'DepthToPipe': 32.32091690544413, 'PixelDistance': 349, 'Type': 1, 'Degree': 23.63881781019633}
+2020-07-02 08:13:44,285:/home/hgh/hgh/api_server_pipe_2/api_server/api_server/settings.py changed, reloading.
+2020-07-02 08:13:48,957:/home/hgh/hgh/api_server_pipe_2/api_server/api_server/settings.py changed, reloading.
+2020-07-02 08:14:46,261:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153311.png
+2020-07-02 08:14:46,375:{'DepthToPipe': 107.42857142857143, 'PixelDistance': 105, 'Type': 1, 'Degree': 12.26947963360459}
+2020-07-02 08:14:54,924:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154836.png
+2020-07-02 08:14:55,013:{'DepthToPipe': 132.7058823529412, 'PixelDistance': 85, 'Type': 0, 'Degree': 0}
+2020-07-02 08:15:03,345:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:15:03,446:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:16:28,038:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154726.png
+2020-07-02 08:16:28,134:{'DepthToPipe': 134.28571428571428, 'PixelDistance': 84, 'Type': 0, 'Degree': 179.99095937080756}
+2020-07-02 08:16:43,915:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153311.png
+2020-07-02 08:16:44,013:{'DepthToPipe': 107.42857142857143, 'PixelDistance': 105, 'Type': 1, 'Degree': 12.26947963360459}
+2020-07-02 08:16:56,112:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154836.png
+2020-07-02 08:16:56,200:{'DepthToPipe': 132.7058823529412, 'PixelDistance': 85, 'Type': 0, 'Degree': 0}
+2020-07-02 08:17:04,146:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:17:04,240:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:18:01,963:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:18:03,954:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:18:04,057:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:18:24,296:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:18:25,116:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:18:25,219:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:18:41,475:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:18:52,428:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:18:53,209:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:18:53,317:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:18:55,738:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:18:55,835:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:19:00,190:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:19:29,079:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:19:32,650:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:19:33,434:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:19:33,535:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:19:37,310:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:19:44,623:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:19:44,732:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:19:47,322:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:20:07,351:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153311.png
+2020-07-02 08:20:07,461:{'DepthToPipe': 107.42857142857143, 'PixelDistance': 105, 'Type': 1, 'Degree': 12.26947963360459}
+2020-07-02 08:20:13,490:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154836.png
+2020-07-02 08:20:13,584:{'DepthToPipe': 132.7058823529412, 'PixelDistance': 85, 'Type': 0, 'Degree': 0}
+2020-07-02 08:20:21,565:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:20:21,658:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 179.93977361440795}
+2020-07-02 08:21:19,079:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:21:20,330:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:21:20,433:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 0}
+2020-07-02 08:21:27,089:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154836.png
+2020-07-02 08:21:27,179:{'DepthToPipe': 132.7058823529412, 'PixelDistance': 85, 'Type': 0, 'Degree': 0}
+2020-07-02 08:21:32,523:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154726.png
+2020-07-02 08:21:32,617:{'DepthToPipe': 134.28571428571428, 'PixelDistance': 84, 'Type': 0, 'Degree': 0}
+2020-07-02 08:21:38,211:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:21:38,305:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:21:55,148:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:21:57,362:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:21:57,465:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:22:24,983:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:22:40,926:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:22:57,164:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:22:57,263:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:23:20,877:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:23:22,618:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:23:22,718:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:23:51,641:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:23:55,229:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:23:55,345:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:24:39,910:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:25:08,389:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:25:13,206:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:25:13,309:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 1, 'Degree': 0}
+2020-07-02 08:25:24,549:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:25:26,024:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:25:26,128:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 1, 'Degree': 0}
+2020-07-02 08:25:52,223:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:25:53,330:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:25:53,430:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:26:52,765:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:26:52,862:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:27:24,001:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:27:27,690:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:27:27,795:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:28:01,429:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:28:01,527:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:28:25,820:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:28:28,557:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:28:28,655:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 179.01223960036018}
+2020-07-02 08:28:47,094:/home/hgh/hgh/api_server_pipe_2/api_server/caliber_pipe/project_algorithm.py changed, reloading.
+2020-07-02 08:28:49,090:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:28:49,195:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 0}
+2020-07-02 08:28:57,759:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153311.png
+2020-07-02 08:28:57,857:{'DepthToPipe': 107.42857142857143, 'PixelDistance': 105, 'Type': 1, 'Degree': 12.26947963360459}
+2020-07-02 08:29:03,535:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702151318.png
+2020-07-02 08:29:03,634:{'DepthToPipe': 28.059701492537314, 'PixelDistance': 402, 'Type': 1, 'Degree': 49.315341634153725}
+2020-07-02 08:29:09,114:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702151210.png
+2020-07-02 08:29:09,213:{'DepthToPipe': 27.51219512195122, 'PixelDistance': 410, 'Type': 1, 'Degree': 49.27448228409722}
+2020-07-02 08:29:14,795:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154726.png
+2020-07-02 08:29:14,892:{'DepthToPipe': 134.28571428571428, 'PixelDistance': 84, 'Type': 0, 'Degree': 0}
+2020-07-02 08:29:20,322:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702153812.png
+2020-07-02 08:29:20,415:{'DepthToPipe': 55.02439024390244, 'PixelDistance': 205, 'Type': 0, 'Degree': 0}
+2020-07-02 08:29:26,075:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702154836.png
+2020-07-02 08:29:26,165:{'DepthToPipe': 132.7058823529412, 'PixelDistance': 85, 'Type': 0, 'Degree': 0}
+2020-07-02 08:29:31,249:Path: /home/hgh/hgh/project/test_project/200701/housa01_20200702160636.png
+2020-07-02 08:29:31,355:{'DepthToPipe': 50.810810810810814, 'PixelDistance': 222, 'Type': 0, 'Degree': 0}

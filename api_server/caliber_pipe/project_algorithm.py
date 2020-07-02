@@ -29,7 +29,7 @@ def distance_calculate(pixel):
 
 
 def line_point(line_list):
-    
+
     for i in range(len(line_list[1:])):
         a1 = line_list[i][3] - line_list[i][1]
         b1 = line_list[i][0] - line_list[i][2]
@@ -47,8 +47,9 @@ def line_point(line_list):
 
     return t_X, t_Y
 
+
 def threshold_func(img):
-    
+
     frame_HSV = cv.cvtColor(img, cv.COLOR_BGR2HSV)
     threshold = cv.inRange(frame_HSV, (60, 0, 0), (179, 255, 255))
     threshold2 = cv.inRange(img, (0, 0, 146), (179, 255, 255))
@@ -59,6 +60,7 @@ def threshold_func(img):
     threshold_result2 = cv.bitwise_and(result1, threshold_result)
     threshold_result2 = cv.dilate(threshold_result2, kernel1, iterations=5)
     return threshold_result2
+
 
 def detect_center(roi_thres):
     cnts = cv.findContours(
@@ -75,10 +77,11 @@ def detect_center(roi_thres):
             cY = int(M["m01"] / 1)
     return cX, cY
 
+
 def main(PATH):
     img = cv.imread(PATH)
     img = cv.resize(img, dsize=(0, 0), fx=0.5, fy=0.5,
-                interpolation=cv.INTER_LINEAR)
+                    interpolation=cv.INTER_LINEAR)
     img = cv.rotate(img, cv.ROTATE_90_CLOCKWISE)
     if img is not None:
         depth, pipe_depth, degree, pipe_type = object_detect(img)
@@ -96,6 +99,10 @@ def object_detect(img):
 
     global bottom_line_x1, bottom_line_y1, bottom_line_x2, bottom_line_y2
     global curve_start_line_x1, curve_start_line_y1, curve_start_line_x2, curve_start_line_y2
+    top_line_x1, top_line_y1, top_line_x2, top_line_y2 = 0, 0, 0, 0
+    bottom_line_x1, bottom_line_y1, bottom_line_x2, bottom_line_y2 = 0, 0, 0, 0
+    left_top_line_x1, left_top_line_y1, left_top_line_x2, left_top_line_y2 = 0, 0, 0, 0
+    curve_start_line_x1, curve_start_line_y1, curve_start_line_x2, curve_start_line_y2 = 0, 0, 0, 0
 
     threshold_result2 = threshold_func(img)
     cnts = cv.findContours(
@@ -142,12 +149,20 @@ def object_detect(img):
             top_degree_bottom = math.atan2(
                 (t_X-curve_start_line_x1), (t_Y-curve_start_line_y1))
             degree = (top_degree_height-top_degree_bottom)*180/math.pi
+            print(degree)
             if degree < 0:
+                print("asdfasdfsdf")
                 degree = abs(degree)
                 if degree > 180:
                     degree = degree-180
-            pipe_type = 1
-            
+                if degree < 170:
+                    pipe_type = 1
+            if degree > 175:
+                degree = 0
+            # if degree > 175:
+            #     pipe_type = 1
+            #     degree = 0
+
         else:
             degree = 0
             pipe_type = 0
@@ -166,7 +181,6 @@ def object_detect(img):
             return distance, pixel, degree, pipe_type
         else:
             return 0, 0, degree, pipe_type
-    except :
+    except:
         logging.debug("There's no Line")
         return 0, 0, 0, 0
-        
